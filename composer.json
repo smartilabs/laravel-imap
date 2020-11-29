@@ -1,5 +1,5 @@
 {
-    "name": "webklex/laravel-imap",
+    "name": "smartilabs/laravel-imap",
     "type": "library",
     "description": "Laravel IMAP client",
     "keywords": [
@@ -26,7 +26,7 @@
         "ext-mbstring": "*",
         "ext-iconv": "*",
         "ext-fileinfo": "*",
-        "webklex/php-imap": "^2.2",
+        "smartilabs/php-imap": "^2.2",
         "laravel/framework": ">=5.0.0"
     },
     "autoload": {
